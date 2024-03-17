@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+    
+    gap: 10%;
+    margin-top: 400px;
+}
+
+.card{
+    border: solid ;
+    border-color: black;
+    padding: 50px;
+    background-color: rgb(208, 205, 205);
+    align-content: center;
+   
+}
+
+.bord img{
+    align-items: center;
+}
+
+#total{
+    border: solid black;
+    padding: 10px;
+}
